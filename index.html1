@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet1" href="stylesheet.css1">
+    <meta charset="utf-8">
+    <title>RESTAURANDOM<title>
+  </head>
+  <body>
+    <div class ="main">
+      <h1>レストランダム</h1>
+      <div class="main-wrapper">
+        <div class = "guest">
+         <p>ゲストとして始める</p>
+        </div>
+       <div class="new-member">
+         <p>新規登録</p>
+        </div>
+        <div class="login">
+         <p>ログイン</p>
+       </div>
+      </div>
+    </div>
+    <div class = footer>
+      <div class = footer-logo>
+        <h1>レストランダムとは？</h1>
+      </div>
+      <p>レストランダムとは、周辺の飲食店をランダムに選んでくれるサービスです。<br>
+      外食しようとしても行きたいお店が中々見つからない時にご利用ください。<br>
+      また、会員登録すると、以前検索した店を見ることができます。</p>
+    </div>
+  </body>
+<html>
